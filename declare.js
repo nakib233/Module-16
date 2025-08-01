@@ -3,3 +3,6 @@ console.log(pencil);
 
 const rubber = Object.create({});
 console.log(rubber);
+
+let str = "Mississippi";
+console.log(str.indexOf("i", 3));

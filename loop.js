@@ -5,14 +5,14 @@ const mobile = {
   camera: "12mp",
   isNew: true,
 };
+console.log(mobile.nakib);
+// for (const prop in mobile) {
+//   console.log(mobile[prop]);
+// }
 
-for (const prop in mobile) {
-  console.log(mobile[prop]);
-}
+// const keys = Object.keys(mobile);
+// console.log(keys);
 
-const keys = Object.keys(mobile);
-console.log(keys);
-
-for (const key of keys) {
-  console.log(key, mobile[key]);
-}
+// for (const key of keys) {
+//   console.log(key, mobile[key]);
+// }
