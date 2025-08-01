@@ -1,4 +1,7 @@
-// Object
+// Primitive / Basic / Primary Data type
+
+// Object ---> Non primitive Data Type
+
 const bottle = {
   brand: "Apple",
   price: 45,
